@@ -101,27 +101,27 @@ sample2.reset();
 
 
 //----interesting test cases below
-sample1.A[20][20] = new APx(400, -0.6, .8, 1); //SUPER COOLLL
+/*sample1.A[20][20] = new APx(400, -0.6, .8, 1);
 sample1.A[10][10] = new APx(20, -3, 1, 1);
-sample1.A[10][20] = new APx(20, 0.3, -1, 1);
+sample1.A[10][20] = new APx(20, 0.3, -1, 1);*/
 
 
-sample1.A[25][25] = new APx(70, -0.6, .8, 1); //SUPER COOLLL
+sample1.A[25][25] = new APx(70, -0.6, .8, 1);
 sample1.A[15][15] = new APx(20, -3, 1, 1);
 sample1.A[15][25] = new APx(20, 0.3, -1, 1);
 
 
-sample1.A[44][36] = new APx(1000, 0, 0, 1); //SUPER COOLLL
+sample1.A[44][36] = new APx(1000, 0, 0, 1); 
 sample1.A[12][12] = new APx(20, -3, 1, 1);
 sample1.A[128 -12][22] = new APx(100, 0.3, -1, 1);
 
 
 /*sample1.A[31][10] = new APx(30, .1, -.3, 1);
 sample1.A[21][20] = new APx(20, 0, -0, 1);
-sample1.A[20][22] = new APx(20, -0, 0, 1);*/
+sample1.A[20][22] = new APx(20, -0, 0, 1);
 
 
-/*sample1.A[20][15] = new APx(10, 0, 0, 1);
+sample1.A[20][15] = new APx(10, 0, 0, 1);
 sample1.A[20][20] = new APx(40, 0.4, 0, 1);*/
 
 
